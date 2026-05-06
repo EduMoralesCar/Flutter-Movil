@@ -1,10 +1,31 @@
-# Flutter - Mini Curso
+Dart + Flutter — Rápido y práctico 🚀
 
-Breve descripción
-
-Este repositorio contiene ejemplos y apuntes para aprender conceptos básicos de Dart y Flutter. Está organizado en archivos de ejemplo que muestran desde tipos de datos y estructuras (listas, mapas) hasta programación asíncrona, clases y patrones comunes.
+Aprende Dart y Flutter con ejemplos cortos y directos.
 
 ¿Qué es Dart?
+
+Dart: lenguaje moderno para aplicaciones cliente, con soporte para tipado, OOP y programación asíncrona.
+
+¿Qué es Flutter?
+
+Flutter: framework UI para crear apps nativas en móvil, web y escritorio desde una sola base de código.
+
+Contenido
+
+- `Dart/`: ejemplos por tema — variables, listas, maps, funciones, clases, async, streams.
+
+Cómo probar un ejemplo
+
+1. Instala el SDK de Dart: https://dart.dev/get-dart
+2. Ejecuta un ejemplo:
+
+```bash
+dart run Dart/01-Example.dart
+```
+
+Contacto
+
+Si quieres que añada ejemplos prácticos o una guía paso a paso, dime cuál y lo agrego.
 
 Dart es un lenguaje de programación optimizado para aplicaciones en cliente. Es el lenguaje principal usado por Flutter. Dart es de tipado estático opcional, con soporte para programación orientada a objetos, asíncrona (futures, async/await) y generación de código.
 
