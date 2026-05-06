@@ -1,13 +1,13 @@
 
-<p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="140" />
-	&nbsp;&nbsp;
-	<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="120" />
-</p>
 
-# Flutter + Dart — Mini presentación 🚀
-
-Aprende con ejemplos cortos y visuales. Cada archivo en `Dart/` es una "slide" con un concepto práctico.
+<div align="center">
+	<h1 style="font-size:48px; margin:12px 0; background: linear-gradient(90deg, #00b4db, #0083b0, #6a11cb, #ff416c); -webkit-background-clip: text; color: transparent; font-weight:800;">Flutter + Dart — Mini presentación 🚀</h1>
+	<p>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="140" style="vertical-align:middle; margin-right:18px;" />
+		<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="120" style="vertical-align:middle;" />
+	</p>
+	<p style="margin-top:6px; color:#444; font-size:16px;">Aprende con ejemplos cortos y visuales. Cada archivo en <code>Dart/</code> es una "slide" con un concepto práctico.</p>
+</div>
 
 — ¿Qué es Dart?
 
